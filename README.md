@@ -1,0 +1,1 @@
+This repository contains a collection of datasets that I have selected and analyzed for building predictive Machine Learning models. These datasets will be used to explore data preprocessing, feature engineering, model training, and prediction tasks across various real-world scenarios.
